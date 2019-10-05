@@ -1,2 +1,2 @@
 # Survey-Data-Helper
-This program was designed to aggregate survey results from one file into user profiles that were pre-existing, as well as creating new user profiles if needed.
+This program is designed to aggregate survey results in specific survey format. I was working with a large scale counseling research study when I noticed they were paying graduate students to manually enter survey hundreds of survey responses into SPSS every week. I thought that this was a great opportunity to write a short script that automates the entire process for them! After I wrote the code I showed them exactly how to use it and wrote them an instruction guide on using it. As of October 2019 they have been using this code for over two years now!
