@@ -1,4 +1,4 @@
-# Survey-Data-Helper
+# Survey-Assistant
 This script is designed to aggregate multiple individual surveys and add them all to an existing spreadsheet that includes all responses up until now. 
 
 # Why this script is useful
